@@ -1,14 +1,5 @@
-[ci-img]: https://img.shields.io/travis/ciena-blueplanet/ember-cli-istanbul.svg "Travis CI Build Status"
-[ci-url]: https://travis-ci.org/ciena-blueplanet/ember-cli-istanbul
-
-[cov-img]: https://img.shields.io/coveralls/ciena-blueplanet/ember-cli-istanbul.svg "Coveralls Code Coverage"
-[cov-url]: https://coveralls.io/github/ciena-blueplanet/ember-cli-istanbul
-
-[npm-img]: https://img.shields.io/npm/v/ember-cli-istanbul.svg "NPM Version"
-[npm-url]: https://www.npmjs.com/package/ember-cli-istanbul
-
-# ember-cli-istanbul <br /> [![Travis][ci-img]][ci-url] [![Coveralls][cov-img]][cov-url] [![NPM][npm-img]][npm-url]
-Istanbul code coverage integration with ember-cli
-
-## Coming Soon
-We don't have this yet, but it is our goal to have it available before EmberConf 2016
+# NOTHING HERE
+We were beaten to the punch by [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage).
+We recommend using that plugin, especially once
+[this PR](https://github.com/kategengler/ember-cli-code-coverage/pull/11) is merged and you can get accurate line
+numbers in your coverage report.
