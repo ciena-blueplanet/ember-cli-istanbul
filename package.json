@@ -6,6 +6,7 @@
   "scripts": {
     "lint": "eslint .",
     "test": "npm run-script lint && npm run-script utest",
+    "postinstall": "echo \"$npm_package_name does not do anything, use ember-cli-code-coverage instead.\" && exit 1",
     "utest": "istanbul cover _mocha tests"
   },
   "repository": {
